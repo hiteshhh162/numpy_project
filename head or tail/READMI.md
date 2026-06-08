@@ -73,7 +73,8 @@ streamlit run app.py
 _Add a screenshot here_
 
 ```markdown
-![Home Screen](images/home.jpeg)
+<img width="1600" height="744" alt="home" src="https://github.com/user-attachments/assets/8f50eb5e-d5b5-4821-9b6e-4890d23d7155" />
+
 ```
 
 ### Game Result
@@ -81,7 +82,8 @@ _Add a screenshot here_
 _Add a screenshot here_
 
 ```markdown
-![Result Screen](images/result.jpeg)
+<img width="1600" height="733" alt="result" src="https://github.com/user-attachments/assets/0ec2837c-45a7-46a6-8b5f-929809a00b0e" />
+
 ```
 
 ---
